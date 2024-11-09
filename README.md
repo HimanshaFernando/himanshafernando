@@ -1,7 +1,8 @@
+![MasterHead]( https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Himansha Fernando</h1>
 <h3 align="center">A Passionate Software Engineer from Sri lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" alt="Coding" width="400" src="![Black Background](https://github.com/user-attachments/assets/3554f92f-bc46-4bad-a4d6-c4610dbc5d6e)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshafernando&label=Profile%20views&color=0e75b6&style=flat" alt="himanshafernando" /> </p>
 
