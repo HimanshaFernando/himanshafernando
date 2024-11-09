@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himansha-fernando-b82775300" target="blank"><img align="center" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himansha-fernando-b82775300" target="blank"><img align="center" src="https://www.google.com/search?sca_esv=fd368eb7b8bad299&sxsrf=ADLYWIKYE61PMRzjOBZu9zbGAvi1vD-3SA:1731184489610&q=animated+software+engineer+coding+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dvLoggNxpdGkAiBQjXtRmgXy7wBeohVECm8CpPpmcolT_n3wB7LUqUl87hYFlJWjSGQIF0WkzOAA38itnuQiKBBjxrQ_sfzT7SSQxCJo2UPFbaSp3ADxYQ8Ulb5U7Y7z4KNm9bhQpE1RaOOHli4EBhggytRY&udm=2&sa=X&ved=2ahUKEwiE26zkjNCJAxUeUGcHHSqZHAoQxKsJegQIDRAB&ictx=0&cshid=1731184606448943&biw=1528&bih=738&dpr=1.25#vhid=dbrfb5dvHO4gVM&vssid=mosaic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
