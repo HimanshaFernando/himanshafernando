@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himansha Fernando</h1>
 <h3 align="center">A Passionate Software Engineer from Sri lanka</h3>
-![1680013086938](https://github.com/user-attachments/assets/2a826a94-76bc-4560-8aa9-61b25e776f79)
-
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
