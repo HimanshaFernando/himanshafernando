@@ -1,4 +1,4 @@
-![MasterHead]( https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+![MasterHead]( https://github.com/HimanshaFernando/himanshafernando/blob/main/1709674661110.gif)
 <h1 align="center">Hi 👋, I'm Himansha Fernando</h1>
 <h3 align="center">A Passionate Undergraduate Software Engineer from Sri lanka</h3>
 
