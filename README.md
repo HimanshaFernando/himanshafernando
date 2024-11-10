@@ -1,6 +1,6 @@
 ![MasterHead]( https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Himansha Fernando</h1>
-<h3 align="center">A Passionate Software Engineer from Sri lanka</h3>
+<h3 align="center">A Passionate Undergraduate Software Engineer from Sri lanka</h3>
 
 <img align="right" alt="CODING" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Programming Languages,Frameworks,Courses**
 
 - 📫 How to reach me **himanshaf@gmail.com**
 
