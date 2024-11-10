@@ -1,4 +1,4 @@
-![MasterHead]( https://github.com/HimanshaFernando/himanshafernando/blob/main/1709674661110.gif)
+![MasterHead](https://github.com/HimanshaFernando/himanshafernando/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Himansha Fernando</h1>
 <h3 align="center">A Passionate Undergraduate Software Engineer from Sri lanka</h3>
 
