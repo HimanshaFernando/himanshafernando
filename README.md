@@ -24,4 +24,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshafernando&show_icons=true&locale=en&layout=compact" alt="himanshafernando" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshafernando&" alt="himanshafernando" /></p>
 
-
+<div align="center"> 
+  <a href="himanshaf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="v" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ 
+</div>
